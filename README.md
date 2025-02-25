@@ -36,6 +36,7 @@ It displays the nessassery info required on any ATM reciept
 
 After that comming towards security system if you add invalid PIN it will give you Two more tries.
 And then your account will be locked
+
 ![pr5](https://github.com/user-attachments/assets/7f703400-357a-42ba-b360-b6f35bec49e7)
 
 
@@ -43,6 +44,18 @@ After this your account would be locked and it will give solutions to your probl
 Like this in the image below.
 
 ![pr6](https://github.com/user-attachments/assets/34aaaf6c-2988-4d89-9e87-edaffdcac7fb)
+
+
+After chossing the perticular solution it will resolve your issue just like in the image below.
+
+![pr7](https://github.com/user-attachments/assets/3d05e44e-ba26-4e1f-b73b-4edeb7d4b6ba)
+
+
+You can also check the code as given as real.cpp  
+There are also some other details you can check it by yourself 
+It is my first semester project might not be as perfect as professional but this project scored full when presented 
+
+
 
 
 
